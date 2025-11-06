@@ -53,7 +53,7 @@
                   <div class="form-group">
                     <div class="input-group">
                       <div class="custom-file">
-                        <input type="hidden" class="custom-file-input" name="id_user" id="id_user" value="<?php echo $id_user ?>">
+                        <input type="hidden" class="custom-file-input" name="id_user" id="id_user" value="<?php echo $id_user; ?>">
                       </div>
                     </div>
                   </div>
